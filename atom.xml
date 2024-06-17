@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuximin.github.io/</id>
+    <title>Valaxy Theme Yun</title>
+    <updated>2024-06-17T08:01:50.990Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>whaley</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://yuximin.github.io/"/>
+    <link rel="self" href="https://yuximin.github.io/atom.xml"/>
+    <subtitle>Whaley‘s blog.</subtitle>
+    <logo>https://valaxy.site/valaxy-logo.png</logo>
+    <icon>https://yuximin.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © whaley</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一篇Blog!]]></title>
+        <id>https://yuximin.github.io/posts/hello</id>
+        <link href="https://yuximin.github.io/posts/hello"/>
+        <updated>2024-02-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>我的第一篇Blog</h2>
+<p>哈喽，大家好！</p>
+<p>这是我在这个平台上的第一篇Blog。今后会持续在这里分享技术相关的笔记和感悟，希望大家多多关注，谢谢。</p>
+]]></content>
+        <author>
+            <name>whaley</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-02-26T00:00:00.000Z</published>
+    </entry>
+</feed>

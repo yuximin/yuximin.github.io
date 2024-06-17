@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Valaxy Theme Yun",
+    "home_page_url": "https://yuximin.github.io/",
+    "feed_url": "https://yuximin.github.io/feed.json",
+    "description": "Whaley‘s blog.",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "whaley",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>我的第一篇Blog</h2>\n<p>哈喽，大家好！</p>\n<p>这是我在这个平台上的第一篇Blog。今后会持续在这里分享技术相关的笔记和感悟，希望大家多多关注，谢谢。</p>\n",
+            "url": "https://yuximin.github.io/posts/hello",
+            "title": "我的第一篇Blog!",
+            "date_modified": "2024-02-26T00:00:00.000Z",
+            "date_published": "2024-02-26T00:00:00.000Z",
+            "author": {
+                "name": "whaley",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
